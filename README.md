@@ -1,2 +1,2 @@
 # LambdaAWSFuncion
-![Imagen lambda](https://github.com/FreddyxD5/ProyectoU5/blob/main/docs/imagen3.png)
+![Imagen lambda](https://github.com/FreddyxD5/LambdaAWSFuncion/blob/main/imagen3.png)
